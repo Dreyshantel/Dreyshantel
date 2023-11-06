@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dreyshantel
+- 👋 Hi, I’m @O.S.Timileyin
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning python programming 
 - 💞️ I’m looking to collaborate on python and data science projects
