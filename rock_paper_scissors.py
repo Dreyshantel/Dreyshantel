@@ -12,10 +12,14 @@ print(f"\n you chose {user_choice}, computer chose {computer_choice}")
 continue_game = True
 
 while True:
-    if user_choice == computer_choice:
+
+    if user_choice not in possible_choice:
+        print("You entered and invalid word.")
+        
+    elif user_choice == computer_choice:
         print(f"computer chose {user_choice}, it's a tie.")
 
-    if user_choice == "rock":
+    elif user_choice == "rock":
         if computer_choice == "scissors":
             print("rock smashes scissors, you won.")
         else:
