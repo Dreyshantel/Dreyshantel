@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @O.S.Timileyin
-- 👀 I’m interested in software engineering
+- 👋 Hi, I’m @Oni Oluwasegun Timileyin
+- 👀 I’m interested in DevOps engineering
 - 🌱 I’m currently learning python programming 
-- 💞️ I’m looking to collaborate on python and data science projects
+- 💞️ I’m looking to collaborate on python and DevOps engineering projects
 - 📫 How to reach me oluwasegun2557@gmail.com 
 
 <!---
