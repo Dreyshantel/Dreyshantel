@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Oni Oluwasegun Timileyin
-- 👀 I’m interested in DevOps engineering
+- 👋 Hi, I’m Timileyin
+- 👀 I’m a DevOps engineer
 - 🌱 I’m currently learning python programming 
 - 💞️ I’m looking to collaborate on python and DevOps engineering projects
 - 📫 How to reach me oluwasegun2557@gmail.com 
