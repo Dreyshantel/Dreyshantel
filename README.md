@@ -2,7 +2,7 @@
   
   ✨ **About Me** ✨
   
-🌱 I’m a Software Enginnering + DevOps/Cloud Engineer student in Nigeria. I have a zeal for learning and constanct improvement. 
+🌱 I’m a Software Enginnering + DevOps/Cloud Engineer student in Nigeria. I have a zeal for learning and constant improvement. 
 In my leisure time i like to:
  - 📖 Read (perhaps a little bit)
  - 🎵 Listen to varieties of music
