@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Timileyin
-- 👀 I’m a DevOps engineer
-- 🌱 I’m currently learning python programming 
-- 💞️ I’m looking to collaborate on python and DevOps engineering projects
-- 📫 How to reach me oluwasegun2557@gmail.com 
+  **Hey, I'm Timileyin!**  👋
+  
+  ✨ **About Me** ✨
+  
+🌱 I’m a Software Enginnering + DevOps/Cloud Engineer student in Nigeria. I have a zeal for learning and constanct improvement. 
+In my leisure time i like to:
+ - 📖 Read (perhaps a little bit)
+ - 🎵 Listen to varieties of music
+ - 👌 workout
+ - 📫 **Contact me**
+   oluwasegun2557@gmail.com 
 
 <!---
 Dreyshantel/Dreyshantel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
